@@ -92,7 +92,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('img/wallpaper.jpg') no-repeat;
+	background: url('img/fondo.gif') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
